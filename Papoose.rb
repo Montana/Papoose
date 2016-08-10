@@ -1,4 +1,3 @@
-#encoding:UTF-8
 #!/usr/bin/env ruby
 
 require 'rubygems'
