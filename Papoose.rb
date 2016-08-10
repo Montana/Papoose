@@ -63,4 +63,3 @@ FasterCSV.open filename, :headers => true do |csv|
       end
     end
   end
-end
